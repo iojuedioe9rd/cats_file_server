@@ -1,0 +1,2 @@
+C:\Users\Jimmy\source\repos\cats_file_server\obj\Debug\cats_file_server.esproj.SuggestedBindingRedirects.cache
+C:\Users\Jimmy\source\repos\cats_file_server\obj\Debug\cats_file_server.esproj.CoreCompileInputs.cache
